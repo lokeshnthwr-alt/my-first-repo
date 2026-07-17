@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WhatsApp Scheduler"
+rootProject.name = "True Dark PDF Reader"
 include(":app")
